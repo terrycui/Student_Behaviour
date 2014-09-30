@@ -1,6 +1,7 @@
 Student_Behaviour
 ===============
 ##Description
+Student behaviour
 
 ##Project Architectrue
 ![picture alt](https://github.com/hangfei/CodingChallenge/blob/master/BrightEdge.jpg "Title is optional")
